@@ -7,6 +7,7 @@
     <script type="text/javascript" src="https://cdn.rawgit.com/oliver-moran/jimp/v0.2.27/browser/lib/jimp.min.js"></script>
     <script type="module" src="{{ URL::asset('js/test.js') }}"></script>
     <title>Test</title>
+    haloooo valdo
 </head>
 <body></body>
 </html>
